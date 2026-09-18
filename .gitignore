@@ -36,6 +36,9 @@ yarn-error.log*
 # vercel
 .vercel
 
+# copyrighted BGM asset - keep local only
+/public/bgm/
+
 # typescript
 *.tsbuildinfo
 next-env.d.ts
